@@ -1,2 +1,6 @@
 # hello-world
-Just another repository
+
+Hello everybody!
+
+Lashmi here. Well i love JS and C++ maybe ha ha
+Totally new to this thing.
